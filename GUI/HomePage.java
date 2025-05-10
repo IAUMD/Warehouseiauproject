@@ -1,4 +1,4 @@
-package UI;
+package GUI;
 
 import DAO.UserDAO;
 import Model.User;
