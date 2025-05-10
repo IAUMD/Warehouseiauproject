@@ -13,21 +13,24 @@ A Java Swing application for managing warehouse inventory, products, suppliers, 
 ## Technologies  
 - Java 11+  
 - Swing for GUI  
-- Maven for build management  
+- Maven for build management
+- MySQL for database 
 
 ## Database Schema  
 Main tables include:  
-- Users  
+- Users
+- Users logs
 - Products  
-- Warehouses  
-- Suppliers  
-- Inventory movements  
+- Customers  
+- Purchases 
+- Stock movements  
 
 ## Getting Started  
 
 ### Prerequisites  
 - Java JDK 11 or later 
 - Maven 3.6+
+- MySQL 5.7+
   
 Build with Maven:  
    ```  
