@@ -1,4 +1,4 @@
-package UI;
+package GUI;
 import Model.User;
 import Database.ConnectionFactory;
 import java.time.LocalDateTime;
